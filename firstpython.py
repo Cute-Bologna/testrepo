@@ -1,1 +1,3 @@
-<header> New Python <header>
+#Display the output
+
+print("New Python File")
